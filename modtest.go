@@ -3,5 +3,5 @@ package ModTest
 import "fmt"
 
 func Show() {
-	fmt.Println("v0.0.1")
+	fmt.Println("v0.0.2")
 }
